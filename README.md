@@ -113,7 +113,7 @@ After that, run [cal_mean_std.py](./tools/cal_mean_std.py), then mean & var is c
 
 ## Acknowledgement
 
-The code is implemented based on [Scene-Graph-Benchmark](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) and [PENET](https://github.com/VL-Group/PENET).
+The code is implemented based on [Scene-Graph-Benchmark](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) and [SHA-GCL](https://github.com/dongxingning/SHA-GCL-for-SGG/tree/master).
 
 
 ## Citation
